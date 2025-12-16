@@ -4,9 +4,6 @@
 package aoc_25
 
 import aoc_24.getResourceAsStringCollection
-import java.math.RoundingMode
-import kotlin.math.abs
-import kotlin.math.round
 
 class Day02 {
 

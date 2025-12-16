@@ -4,7 +4,6 @@
 package aoc_25
 
 import aoc_24.getResourceAsStringCollection
-import kotlin.math.abs
 
 class Day01 {
 
