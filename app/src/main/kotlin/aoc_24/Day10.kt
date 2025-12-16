@@ -1,4 +1,4 @@
-package adventofcode
+package aoc_24
 
 class Day10 {
 

@@ -1,4 +1,4 @@
-package adventofcode
+package aoc_24
 
 import java.util.concurrent.atomic.AtomicInteger
 

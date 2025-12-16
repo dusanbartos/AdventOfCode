@@ -1,4 +1,4 @@
-package adventofcode
+package aoc_24
 
 fun getResourceAsStringCollection(resourceName: String) =
     object {}::class.java.classLoader.getResourceAsStream(resourceName)
